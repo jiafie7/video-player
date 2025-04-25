@@ -1,0 +1,12 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# CMake
+cmake-build-debug/
+cmake-build-release/
+
+# Distribution / packaging
+env/
+build/
